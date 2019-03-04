@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="sis.report.RosterReporterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-03T23:01:53" hostname="BillMacBookPro" time="0.009">
+<testsuite name="sis.report.RosterReporterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-04T23:21:01" hostname="BillMacBookPro.local" time="0.008">
   <properties/>
-  <testcase name="canCreateRosterReport" classname="sis.report.RosterReporterTest" time="0.002"/>
+  <testcase name="canCreateRosterReport" classname="sis.report.RosterReporterTest" time="0.001"/>
   <testcase name="canCreateRosterReport" classname="sis.report.RosterReporterTest" time="0.0"/>
   <testcase name="canCreateRosterReport" classname="sis.report.RosterReporterTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="sis.report.CourseReportTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-03T23:01:53" hostname="BillMacBookPro" time="0.001">
+<testsuite name="sis.report.CourseReportTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-04T23:21:01" hostname="BillMacBookPro.local" time="0.0">
   <properties/>
-  <testcase name="canCreateReport" classname="sis.report.CourseReportTest" time="0.001"/>
+  <testcase name="canCreateReport" classname="sis.report.CourseReportTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
