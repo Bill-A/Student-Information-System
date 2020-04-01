@@ -11,7 +11,7 @@ pipeline {
 
         stage('Gradle Build') {
           steps {
-            withGradle()
+            sh 'grade build'
           }
         }
 
